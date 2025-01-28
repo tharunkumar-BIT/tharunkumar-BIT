@@ -1,3 +1,5 @@
+![MasterHead](https://github.com/tharunkumar-BIT/tharunkumar-BIT/blob/main/Black%20Elegant%20Professional%20Photography%20LinkedIn%20Banner.gif)
+
 <h1 align="center">Hi there, I'm Tharunkumar S 👋</h1>
 
 ---
