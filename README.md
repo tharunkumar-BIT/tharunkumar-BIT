@@ -10,6 +10,10 @@ I am passionate about building efficient, scalable, and user-friendly applicatio
 
 ---
 
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=tharunkumar-BIT&label=Profile%20views&color=0e75b6&style=flat" alt="tharunkumar-BIT" /> 
+</p>
+
 ### 🚀 Tech Stack  
 
 #### Languages & Frameworks:  
