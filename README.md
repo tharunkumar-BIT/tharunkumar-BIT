@@ -45,7 +45,7 @@ I am passionate about building efficient, scalable, and user-friendly applicatio
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
 ![Dotenv](https://img.shields.io/badge/Dotenv-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black)
-![Body-Parser](https://img.shields.io/badge/Body--Parser-778899?style=for-the-badge&logo=body-parser&logoColor=white)
+![Cookie-Parser](https://img.shields.io/badge/Cookie--Parser-778899?style=for-the-badge&logo=cookie-parser&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 ![Multer](https://img.shields.io/badge/Multer-4A4A4A?style=for-the-badge&logo=multer&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
