@@ -68,5 +68,5 @@ I am passionate about building efficient, scalable, and user-friendly applicatio
 ### 🌟 Connect with Me  
 
 📫 Gmail: [stharunkumartks@gmail.com](mailto:stharunkumartks@gmail.com)  
-🔗 LinkedIn: [Tharun Kumar S](https://www.linkedin.com/in/tharun-kumar-s-049808267/)  
+🔗 LinkedIn: [Tharun Kumar S](https://www.linkedin.com/in/tharunkumar45/)  
 📂 [Visit My GitHub](https://github.com/tharunkumar-BIT)  
