@@ -5,8 +5,8 @@
 ---
 
 ### 👨‍💻 About Me  
-Hi! I'm Tharunkumar S, specialized in **React** and **Java**. I'm currently learning **Data Structures and Algorithms (DSA)**, **Object-Oriented Programming (OOPS)**, and **Problem Solving**.  
-I am passionate about building efficient, scalable, and user-friendly applications.  
+Hi! I'm Tharunkumar S, specialized in **React** and **Django**, with strong proficiency in **Java**. I'm actively improving my skills in **Data Structures and Algorithms (DSA)**, **Object-Oriented Programming (OOPS)**, and **Problem Solving**, and I enjoy building efficient, scalable, and user-friendly applications.
+
 
 ---
 
@@ -30,6 +30,10 @@ I am passionate about building efficient, scalable, and user-friendly applicatio
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
 
 </div>
 
@@ -50,6 +54,9 @@ I am passionate about building efficient, scalable, and user-friendly applicatio
 ![Multer](https://img.shields.io/badge/Multer-4A4A4A?style=for-the-badge&logo=multer&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![DataURI](https://img.shields.io/badge/DataURI-6A5ACD?style=for-the-badge&logo=data-uri&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+![Logstash](https://img.shields.io/badge/Logstash-005571?style=for-the-badge&logo=logstash&logoColor=white)
+![pip](https://img.shields.io/badge/pip-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
 </div>
