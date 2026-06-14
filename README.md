@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/tharunkumar-BIT/tharunkumar-BIT/blob/main/Black%20Elegant%20Professional%20Photography%20LinkedIn%20Banner.gif" alt="Banner" width="100%" />
+  <img src="https://github.com/tharunkumar-BIT/tharunkumar-BIT/blob/main/Yellow%20and%20Black%20Minimalist%20Business%20LinkedIn%20Banner%20(1).gif" alt="Banner" width="100%" />
 </div>
 
 <h1 align="center">
